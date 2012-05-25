@@ -27,7 +27,7 @@ gem 'execjs'
 gem 'therubyracer'
 
 group :production do
-   gem "pg"
+   gem 'pg'
 end
 
 group :development do
